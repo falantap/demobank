@@ -105,6 +105,14 @@
       <value name="accountCity">Purwokerto</value>
       <double name="accountBalance" type="Double">500000.0</double>
     </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="accountId">20010006</value>
+      <value name="accountType">REG</value>
+      <value name="accountStatus">1</value>
+      <value name="accountName">Chelsea Islan</value>
+      <value name="accountCity">Jakarta</value>
+      <double name="accountBalance" type="Double">250000.0</double>
+    </record>
   </array>
 </Values>
 </DATA>
