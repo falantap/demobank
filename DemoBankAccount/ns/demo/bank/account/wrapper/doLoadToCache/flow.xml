@@ -113,6 +113,14 @@
       <value name="accountCity">Jakarta</value>
       <double name="accountBalance" type="Double">250000.0</double>
     </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="accountId">2001007</value>
+      <value name="accountType">REG</value>
+      <value name="accountStatus">1</value>
+      <value name="accountName">Soetomo</value>
+      <value name="accountCity">Surabaya</value>
+      <double name="accountBalance" type="Double">500000.0</double>
+    </record>
   </array>
 </Values>
 </DATA>
